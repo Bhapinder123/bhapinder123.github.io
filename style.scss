@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background-color white  :http: red;
+	background-image: url("
   font: 18px/1.7 $helvetica;
   color: $JET Black;
 }
@@ -114,6 +114,13 @@ img {
 .gmnoprint img {
   max-width: none;
 }
+
+
+table,td {
+	border: 1px solid black;
+}
+
+
 
 .date {
   font-style: italic;
