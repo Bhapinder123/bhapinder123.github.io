@@ -45,7 +45,7 @@ background-image: url(https://s-media-cache-ak0.pinimg.com/originals/ba/92/74/ba
   color; #00ff11{
 }
 
-.container {
+container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
@@ -337,6 +337,7 @@ footer {
 }
 
 
-	// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
+	// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start}
 @import "highlights";
 @import "svg-icons";
+}
