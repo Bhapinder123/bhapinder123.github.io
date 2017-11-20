@@ -4,6 +4,31 @@
 //
 // IMPORTS
 //
+
+// Syntax highlighting @import is at the bottom of this file
+
+/**************/
+/* BASE RULES */
+/**************/
+
+html {
+  font-size: 100%;
+}
+
+body {
+background-image: url("https://s-media-cache-ak0.pinimg.com/originals/ba/92/74/ba9274b143b9c2f317488c9f1c5723e8.jpg");
+  font: 18px/1.7 $helvetica;
+  color; #00ff11;
+}
+
+container {
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+  background: rgba(0,0,0,0.6);
+}
+	
 table {
 border-collapse: collapse;
 width: 100%;
@@ -29,30 +54,6 @@ vertical-align: middle;
 
 @import "reset";
 @import "variables";
-// Syntax highlighting @import is at the bottom of this file
-
-/**************/
-/* BASE RULES */
-/**************/
-
-html {
-  font-size: 100%;
-}
-
-body {
-background-image: url(https://s-media-cache-ak0.pinimg.com/originals/ba/92/74/ba9274b143b9c2f317488c9f1c5723e8.jpg);
-  font: 18px/1.7 #00ff11
-  color; #00ff11{
-}
-
-container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
-Backgroun: rgba(0,0,0,0.6);
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
   color: $darkerGray;
@@ -372,4 +373,4 @@ footer {
 	// ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start}
 @import "highlights";
 @import "svg-icons";
-}
+
