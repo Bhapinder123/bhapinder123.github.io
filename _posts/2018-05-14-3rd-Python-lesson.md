@@ -24,7 +24,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To have a Github Pages Static Website</td>
+    <td><img src="https://imgur.com/a/8luQHhI"/> To have a Github Pages Static Website</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
