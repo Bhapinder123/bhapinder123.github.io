@@ -42,8 +42,8 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>When I was doing the coding on python everything was self explained and there was also instructions so you could understand. This all made things quite easier. My target was to at least half way, and i did because ito reach half way at least and I did because there was 14 questions and i did 9. It was talking about how you use comments, syntax and variables arithmatic, strings and much more, and i also reached my target to start a new topic on code academy. Maybe i should read the whole thing before i should start and this could help me understand better so then i can do more work. I think this had limited me. Also i was talking quite a lot so
-I was spending more time talking so i should have spent more time working. This time i got my third badge for the code acedemy and finished 16 lvls to get that badge
+    <td>When I was doing the coding on python everything was self explained and there was also instructions so you could understand.. My target was to at least half way, and i did because ito reach half way at least and I did because there was 14 questions and i did 9. It was talking about how you use comments, syntax and variables arithmatic, strings and much more, and i also reached my target to start a new topic on code academy. Maybe i should read the whole thing before i should start and this could help me understand better so then i can do more work. I think this had limited me. Also i was talking quite a lot so
+I was spending more time talking so i should have spent more time working. This time i got my third badge for the code acedemy and finished 16 lvls to get that badge and wasnt as hards as i thought it was.
  </td>
   </tr>
   <tr>
