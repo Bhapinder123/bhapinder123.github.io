@@ -44,6 +44,7 @@ published: true
   <tr>
     <td>When I was doing the coding on python everything was self explained and there was also instructions so you could understand. This all made things quite easier. My target was to at least half way, and i did because ito reach half  way at least and I did because there was 14 questions and i did 9. It was talking about how you use comments, syntax and variables arithmatic, strings and much more, and i also reached my target to start a new topic on code academy. Maybe i should read the whole thing before i should start and this could help me understand better so then i can do more work. I think this had limited me. Also i was talking quite a lot so
 I was spending more time talking so i should have spent more time working. Last time i got my third badge for the code academy and finished 16 lvls to get that badge.This time i got my 7th code academy badge and reached  my target of at least getting a badge a lesson and that was good as i am learning more when I complete lvls.<iframe src="https://drive.google.com/file/d/11vA3BkcO_c587mS0LO6HXKQj4KJEGlN9/preview" width="640" height="480"></iframe>
+      <iframe src="https://drive.google.com/file/d/1n7KVDmggY7YUoJ4VavXtsmT4-aYuld-3/preview" width="640" height="480"></iframe>
  </td>
   </tr>
   <tr>
